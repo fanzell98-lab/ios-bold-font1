@@ -1,15 +1,13 @@
 
 {
   "spec": 1,
-  "fonts": [
-    {
-      "name": "iOS Bold",
-      "postscript": "iOS-Bold",
-      "weight": 700,
-      "style": "normal",
-      "src": [
-        "https://raw.githubusercontent.com/fanzell98-lab/ios-bold-font1/main/iOS%20Bold%20Font%20TANN.ttf"
-      ]
-    }
-  ]
+  "name": "iOS Bold Font",
+  "description": "iOS Bold Font TANN",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/fanzell98-lab/ios-bold-font1/main/iOS%20Bold%20Font%20TANN.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/fanzell98-lab/ios-bold-font1/main/iOS%20Bold%20Font%20TANN.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/fanzell98-lab/ios-bold-font1/main/iOS%20Bold%20Font%20TANN.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/fanzell98-lab/ios-bold-font1/main/iOS%20Bold%20Font%20TANN.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/fanzell98-lab/ios-bold-font1/main/iOS%20Bold%20Font%20TANN.ttf"
+  }
 }
