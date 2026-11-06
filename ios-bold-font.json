@@ -1,8 +1,15 @@
 
 {
-  "name": "iOS Bold Font",
-  "description": "iOS Bold Font TANN",
-  "author": "fanzell98-lab",
-  "version": "1.0",
-  "font": "iOS Bold Font TANN.ttf"
+  "spec": 1,
+  "fonts": [
+    {
+      "name": "iOS Bold Font",
+      "postscript": "iOS-Bold",
+      "weight": 700,
+      "style": "normal",
+      "src": [
+        "https://raw.githubusercontent.com/fanzell98-lab/ios-bold-font1/main/iOS%20Bold%20Font%20TANN.ttf"
+      ]
+    }
+  ]
 }
